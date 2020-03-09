@@ -24,7 +24,7 @@ object Driver {
       println(s"""Please select correct option.
         First parameter:
                         m for generating classification model
-                        k for for fraud detection and saving the result to Elasticsearch
+                        k for fraud detection and saving the result to Elasticsearch
         Second parameter:
                         l for Logistic regression
                         r for Random forest""")
